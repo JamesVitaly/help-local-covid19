@@ -1,0 +1,35 @@
+{
+  "name": "help-local",
+  "version": "0.0.1",
+  "description": "A help board for getting assistance during COVID-19",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "COVID19",
+    "Help",
+    "assistance",
+    "volunteer"
+  ],
+  "author": "jamesvitaly",
+  "license": "ISC",
+  "dependencies": {
+    "babel-plugin-styled-components": "^1.10.7",
+    "next": "^9.3.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "styled-components": "^5.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
